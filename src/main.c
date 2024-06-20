@@ -1,6 +1,6 @@
 #include "dbl_linked_list.h"
 
-// // Driver code to test the doubly linked list
+// Driver code to test the doubly linked list
 int main()
 {
     insert_at_head(10);
